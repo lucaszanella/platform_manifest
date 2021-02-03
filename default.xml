@@ -538,7 +538,7 @@
     <linkfile src="os_pickup.mk" dest="hardware/qcom/sm8150p/Android.mk"/>
     <linkfile src="os_pickup.bp" dest="hardware/qcom/sm8150p/Android.bp"/>
   </project>
-  <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="7426ab18a6bd2a0f25a048ac559477bea75473d4" upstream="refs/tags/aosp-emu-30-release" dest-branch="refs/tags/aosp-emu-30-release" groups="pdk"/>
+  <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="7426ab18a6bd2a0f25a048ac559477bea75473d4" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk"/>
   <project name="platform/hardware/qcom/wlan" path="hardware/qcom/wlan" revision="b76f19367fc53303a6ed4e1df497f05452d378b0" upstream="refs/tags/android-11.0.0_r27" dest-branch="refs/tags/android-11.0.0_r27" groups="qcom_wlan,pdk-qcom"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="2d9d13e7a03633a46a6d830c127813e8dfa60e29" upstream="refs/tags/android-11.0.0_r27" dest-branch="refs/tags/android-11.0.0_r27" groups="pdk"/>
   <project name="platform/hardware/st/nfc" path="hardware/st/nfc" revision="e3667f87aa8c8715f3b423934aa1e1b8e0105d97" upstream="refs/tags/android-11.0.0_r27" dest-branch="refs/tags/android-11.0.0_r27" groups="pdk"/>
