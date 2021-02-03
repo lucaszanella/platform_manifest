@@ -680,6 +680,11 @@
   <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" path="prebuilts/android-emulator-build/qemu-android-deps" revision="715d3bed0a3dc4f9980528c9bfb81469f2d3cbab" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/android-emulator-build/common" path="prebuilts/android-emulator-build/common" revision="180c9a42b79f9c22a38f902564ea3950d4460a96" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/android-emulator-build/qt" path="prebuilts/android-emulator-build/qt" revision="23cbd79e9db666af535e2cefcb23fcdf0ff0c123" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/android-emulator-build/mesa" path="prebuilts/android-emulator-build/mesa" revision="be7c00f399b415511d73308f0af0c0310512aced" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/android-emulator-build/mesa-deps" path="prebuilts/android-emulator-build/mesa-deps" revision="17837fdb1889014fa01cbbbda56afc9b6034815f" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/android-emulator-build/curl" path="prebuilts/android-emulator-build/curl" revision="06f0905068b9ebfdd2d11b4d310c36b68c2fbe2f" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/android-emulator-build/archive" path="prebuilts/android-emulator-build/archive" revision="0545d85d4442d77841f8a81ecd2627aff175ce02" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/android-emulator-build/protobuf" path="prebuilts/android-emulator-build/protobuf" revision="8e2a5472dd374e6c971d30eb3d00898a8c1a25c8" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
 
   
   
