@@ -685,6 +685,7 @@
   <project name="platform/prebuilts/android-emulator-build/curl" path="prebuilts/android-emulator-build/curl" revision="06f0905068b9ebfdd2d11b4d310c36b68c2fbe2f" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/android-emulator-build/archive" path="prebuilts/android-emulator-build/archive" revision="0545d85d4442d77841f8a81ecd2627aff175ce02" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/android-emulator-build/protobuf" path="prebuilts/android-emulator-build/protobuf" revision="8e2a5472dd374e6c971d30eb3d00898a8c1a25c8" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
+  <project name="platform/platform/external/grpc-grpc" path="external/grpc" revision="0d80ea35ba09d0462ca13f236cc9ddc3fb749c57" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
 
   
   
