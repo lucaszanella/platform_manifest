@@ -676,24 +676,6 @@
   <project name="platform/prebuilts/r8" path="prebuilts/r8" revision="0c95c87739bc57de684b3788d91e5afeb9bb3290" upstream="refs/tags/android-11.0.0_r27" dest-branch="refs/tags/android-11.0.0_r27" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/remoteexecution-client" path="prebuilts/remoteexecution-client" revision="64317f8a6ef5276b178d963e9624900f6d910559" upstream="refs/tags/android-11.0.0_r27" dest-branch="refs/tags/android-11.0.0_r27" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/runtime" path="prebuilts/runtime" revision="2efbd99a0140b8a224d5ec39b82550a6da88cedc" upstream="refs/tags/android-11.0.0_r27" dest-branch="refs/tags/android-11.0.0_r27" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/cmake/linux-x86" path="prebuilts/cmake/linux-x86/" revision="40dcb6f55bd2e8731e3e4f1a1721f7ff0fb83cb1" upstream="refs/heads/emu-30-release" dest-branch="refs/heads/emu-30-release" groups="pdk" clone-depth="1"/>
-
-  
-  <project name="platform/external/qemu" path="external/qemu" revision="791783c6e74c936a8fcd231ad36219385723bb8a" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" path="prebuilts/android-emulator-build/qemu-android-deps" revision="715d3bed0a3dc4f9980528c9bfb81469f2d3cbab" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/android-emulator-build/common" path="prebuilts/android-emulator-build/common" revision="180c9a42b79f9c22a38f902564ea3950d4460a96" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/android-emulator-build/qt" path="prebuilts/android-emulator-build/qt" revision="23cbd79e9db666af535e2cefcb23fcdf0ff0c123" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/android-emulator-build/mesa" path="prebuilts/android-emulator-build/mesa" revision="be7c00f399b415511d73308f0af0c0310512aced" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/android-emulator-build/mesa-deps" path="prebuilts/android-emulator-build/mesa-deps" revision="17837fdb1889014fa01cbbbda56afc9b6034815f" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/android-emulator-build/curl" path="prebuilts/android-emulator-build/curl" revision="06f0905068b9ebfdd2d11b4d310c36b68c2fbe2f" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/android-emulator-build/archive" path="prebuilts/android-emulator-build/archive" revision="0545d85d4442d77841f8a81ecd2627aff175ce02" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/android-emulator-build/protobuf" path="prebuilts/android-emulator-build/protobuf" revision="8e2a5472dd374e6c971d30eb3d00898a8c1a25c8" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/grpc-grpc" path="external/grpc" revision="0d80ea35ba09d0462ca13f236cc9ddc3fb749c57" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/astc-codec/" path="external/astc-codec" revision="17ae36822a8084f45ae51f9031e81f8318254f33" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/c-ares" path="external/cares" revision="b88261c9132d21c234dfbf36db3c6c3f5780051a" upstream="refs/heads/aosp-emu-30-release" dest-branch="refs/heads/aosp-emu-30-release" groups="pdk" clone-depth="1"/>
-
-  
-  
   <project name="platform/prebuilts/rust" path="prebuilts/rust" revision="a48fb0348501e6d2ef7380b7c5e66ebe297e0dfd" upstream="refs/tags/android-11.0.0_r27" dest-branch="refs/tags/android-11.0.0_r27" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/sdk" path="prebuilts/sdk" revision="457415dace2443070f4abdb02a06a7b3a7f08c41" upstream="refs/tags/android-11.0.0_r27" dest-branch="refs/tags/android-11.0.0_r27" groups="pdk" clone-depth="1">
     <linkfile src="current/androidx-README.md" dest="frameworks/support.md"/>
